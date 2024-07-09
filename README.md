@@ -14,6 +14,7 @@ I'm eager to collaborate with other members of the GitHub community and contribu
 
 ### 🖥️ Fields of Study and Specialization:
 
+- OOP
 - Data Science
 - .NET Framework
 - Windows Applications
